@@ -1,0 +1,4 @@
+dn: uid=karim,ou=users,dc=universite,dc=local
+changetype: modify
+add: loginShell
+loginShell: /bin/bash
